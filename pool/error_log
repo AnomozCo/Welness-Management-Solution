@@ -1,0 +1,13 @@
+[26-Aug-2019 12:22:06 Asia/Karachi] PHP Notice:  Undefined index: expiry in /home/anomozco/hu.anomoz.com/wellness/pool/history.php on line 106
+[26-Aug-2019 12:22:06 Asia/Karachi] PHP Warning:  date() expects parameter 2 to be integer, string given in /home/anomozco/hu.anomoz.com/wellness/pool/history.php on line 113
+[26-Aug-2019 12:22:06 Asia/Karachi] PHP Notice:  Undefined index: expiry in /home/anomozco/hu.anomoz.com/wellness/pool/history.php on line 106
+[26-Aug-2019 12:22:06 Asia/Karachi] PHP Notice:  Undefined index: expiry in /home/anomozco/hu.anomoz.com/wellness/pool/history.php on line 106
+[26-Aug-2019 12:22:06 Asia/Karachi] PHP Notice:  Undefined index: expiry in /home/anomozco/hu.anomoz.com/wellness/pool/history.php on line 106
+[26-Aug-2019 12:22:06 Asia/Karachi] PHP Warning:  date() expects parameter 2 to be integer, string given in /home/anomozco/hu.anomoz.com/wellness/pool/history.php on line 113
+[26-Aug-2019 12:22:06 Asia/Karachi] PHP Notice:  Undefined index: expiry in /home/anomozco/hu.anomoz.com/wellness/pool/history.php on line 106
+[26-Aug-2019 12:22:06 Asia/Karachi] PHP Notice:  Undefined index: expiry in /home/anomozco/hu.anomoz.com/wellness/pool/history.php on line 106
+[26-Aug-2019 12:22:06 Asia/Karachi] PHP Warning:  date() expects parameter 2 to be integer, string given in /home/anomozco/hu.anomoz.com/wellness/pool/history.php on line 112
+[26-Aug-2019 12:22:06 Asia/Karachi] PHP Warning:  date() expects parameter 2 to be integer, string given in /home/anomozco/hu.anomoz.com/wellness/pool/history.php on line 114
+[26-Aug-2019 07:22:14 UTC] PHP Notice:  Undefined variable: query in /home/anomozco/hu.anomoz.com/wellness/global.php on line 19
+[26-Aug-2019 07:22:14 UTC] PHP Warning:  mysqli::query(): Empty query in /home/anomozco/hu.anomoz.com/wellness/global.php on line 19
+[26-Aug-2019 07:22:14 UTC] PHP Notice:  Trying to get property of non-object in /home/anomozco/hu.anomoz.com/wellness/global.php on line 20
